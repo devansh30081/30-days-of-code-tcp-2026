@@ -8,5 +8,6 @@ DEVANSH BHOWALKA CSE 25115041
 
 ## Event Schedule & Registration Form
 
-![Day 2 Screenshot](screenshots/day-2-event-schedule.jpeg)
+![Day 2 Screenshot](screenshots/day-2.jpeg)
+
 
