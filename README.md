@@ -10,4 +10,8 @@ DEVANSH BHOWALKA CSE 25115041
 
 ![Day 2 Screenshot](screenshots/day-2.jpeg)
 
+## Day 3 – Portfolio Styling (CSS)
+
+![Day 3 Screenshot(index)](screenshots/day-3.index.jpeg)
+![Day 3 Screenshot(about)](screenshots/day-3.about.jpeg)
 
