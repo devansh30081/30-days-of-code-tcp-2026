@@ -15,3 +15,6 @@ DEVANSH BHOWALKA CSE 25115041
 ![Day 3 Screenshot(index)](screenshots/day-3.index.jpeg)
 ![Day 3 Screenshot(about)](screenshots/day-3.about.jpeg)
 
+# Day 4 — Responsive Product Landing Page
+
+![Day 4 Screenshot](screenshots/day-4.jpeg)
