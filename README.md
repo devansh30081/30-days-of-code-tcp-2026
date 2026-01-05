@@ -18,3 +18,7 @@ DEVANSH BHOWALKA CSE 25115041
 # Day 4 — Responsive Product Landing Page
 
 ![Day 4 Screenshot](screenshots/day-4.jpeg)
+
+# Day 5 — Tic Tac Toe
+
+![Day 5 Screenshot](screenshots/day-5.jpeg)
