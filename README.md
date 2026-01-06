@@ -22,3 +22,7 @@ DEVANSH BHOWALKA CSE 25115041
 # Day 5 — Tic Tac Toe
 
 ![Day 5 Screenshot](screenshots/day-5.jpeg)
+
+# Day 6 - Time Complexity
+
+![Day 6 Screenshot](screenshots/day-6-answer.jpeg)
