@@ -26,3 +26,7 @@ DEVANSH BHOWALKA CSE 25115041
 # Day 6 - Time Complexity
 
 ![Day 6 Screenshot](screenshots/day-6-answer.jpeg)
+
+# Day 7 - Encrypted Sum
+
+![Day 7 Screenshot](screenshots/day-7.png)
